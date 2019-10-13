@@ -1,0 +1,5 @@
+com.birtdemo.common.controller
+com.birtdemo.common.service
+com.birtdemo.common.service.impl
+com.birtreport.servlet
+com.birtreport.util
